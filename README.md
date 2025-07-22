@@ -1,5 +1,4 @@
 # DigiNotesOrganiser
-# 📚 DigiNotesOrganiser
 
 DigiNotesOrganiser is a full-stack web application designed to help students manage their academic resources more efficiently. With smart file organization, a customizable timetable, and secure user authentication, it minimizes the need to carry physical books by keeping everything accessible online.
 
